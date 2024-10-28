@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+
+# 기타 무시할 파일 및 폴더
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.vscode/
+.idea/
