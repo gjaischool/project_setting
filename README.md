@@ -4,7 +4,11 @@
 이 프로젝트는 Python 개발 환경을 Docker 컨테이너로 설정하기 위한 것입니다. Docker를 사용하여 팀원들이 동일한 개발 환경에서 작업할 수 있도록 도와줍니다.
 
 ## 파일 구조
-project_setting/ ├── Dockerfile ├── requirements.txt ├── .gitignore └── README.md
+project_setting/  
+├── Dockerfile  
+├── requirements.txt  
+├── .gitignore  
+└── README.md
 
 
 ## 설치 및 실행
